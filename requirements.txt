@@ -1,1 +1,2 @@
-sko>0.1
+sko>0.1  
+scikit-opt==0.1
